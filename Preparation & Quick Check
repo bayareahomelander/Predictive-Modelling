@@ -17,7 +17,7 @@ Data columns (total 21 columns)
 df.describe()
 # A quick statistical summary of the numeric columns with function -> .describe()
 
-	SeniorCitizen	tenure	MonthlyCharges	TotalCharges
+	SeniorCitizen	tenure		MonthlyCharges	TotalCharges
 count	7032.000000	7032.000000	7032.000000	7032.000000
 mean	0.162400	32.421786	64.798208	2283.300441
 std	0.368844	24.545260	30.085974	2266.771362
