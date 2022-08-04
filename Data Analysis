@@ -1,4 +1,3 @@
-// Confirming that there are no NaN values
 df.isna().sum()
 
 customerID          0
