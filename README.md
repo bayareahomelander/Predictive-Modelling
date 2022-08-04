@@ -15,8 +15,7 @@ The project breaks down to 4 individual parts:
 Best performance comes from AdaBoostClassfier
 
 Potential future improvement for this project:
-1. Perform GridSearching for optimal hyperparameters since none of the models si
-those who were going to churn.
+1. Perform GridSearching for optimal hyperparameters
 2. Focus more on adjusting n_estimators such as doubling up
 
 GitHub does not allow image upload in files, complete PDF file named "ML Project" with both image, code and comments with detailed analysis can be found under this project tree.
