@@ -15,7 +15,7 @@ Data columns (total 21 columns)
 
 
 df.describe()
-# A quick statistical summary of the numeric columns with function -> .describe()
+// A quick statistical summary of the numeric columns with function -> .describe()
 
 	SeniorCitizen	tenure		MonthlyCharges	TotalCharges
 count	7032.000000	7032.000000	7032.000000	7032.000000
