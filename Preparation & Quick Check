@@ -11,11 +11,7 @@ df.info()
 RangeIndex: 7032 entries, 0 to 7031
 Data columns (total 21 columns)
 
-// Results are removed here for readability.
-
-
 df.describe()
-// A quick statistical summary of the numeric columns with function -> .describe()
 
 	SeniorCitizen	tenure		MonthlyCharges	TotalCharges
 count	7032.000000	7032.000000	7032.000000	7032.000000
