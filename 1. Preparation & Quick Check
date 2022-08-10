@@ -1,3 +1,4 @@
+```Python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -6,6 +7,7 @@ import seaborn as sns
 df = pd.read_csv('../DATA/Telco-Customer-Churn.csv')
 
 df.info()
+```
 
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 7032 entries, 0 to 7031
